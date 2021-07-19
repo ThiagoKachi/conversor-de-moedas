@@ -12,6 +12,7 @@
   - Context API
   - Styled Components
   - React-Modal
+  - Axios
 
 ___
 
