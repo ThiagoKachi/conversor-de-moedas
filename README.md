@@ -16,4 +16,31 @@
 
 ___
 
+Clone o projeto
+
+```bash
+git clone git@github.com:ThiagoKachi/conversor-de-moedas.git
+```
+
+Vá para o diretório do projeto
+
+```bash
+cd conversor-moedas
+```
+
+Instale as dependências
+
+```bash
+yarn install
+```
+
+Inicie o servidor
+
+```bash
+yarn start
+```
+
+___
+## Demo
+
 [![conversor-moedas.gif](https://i.postimg.cc/DwKhjV3H/conversor-moedas.gif)](https://postimg.cc/SJVHRvsf)
